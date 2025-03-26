@@ -1,33 +1,72 @@
 <h1 align="center">Daniel Azevedo</h1>
 <p align="center">
-  Desenvolvedor Back-end | Java | Spring Boot | Docker | APIs RESTful | AWS | Python
+  Desenvolvedor Back-end | Java | Spring Boot | AWS | Docker | Python
 </p>
 
 ---
 
-### 👋 Sobre mim
+### 👨‍💻 Sobre mim
 
-Sou um desenvolvedor Java com foco em back-end, apaixonado por criar soluções escaláveis, seguras e bem arquitetadas. Tenho experiência com APIs RESTful, microsserviços, banco de dados relacional, Docker e boas práticas como Clean Code, SOLID e DDD.
+Sou Desenvolvedor Back-End com foco em soluções escaláveis, seguras e modernas. Tenho experiência sólida em **Java** (Spring Boot, Jakarta EE) e **Python** (Django, automações com Selenium), trabalhando com APIs RESTful, microsserviços, containers Docker e banco de dados relacional.
 
-🎙️ Autor do podcast **Segurança da Informação com Daniel Azevedo**  
-📍 João Pessoa - PB | 🇧🇷  
+Atuo também com arquitetura em nuvem utilizando AWS (S3, Lambda, RDS, DynamoDB) e sou certificado como **AWS Cloud Practitioner**. Além disso, possuo certificações em **Inteligência Artificial**, **Segurança da Informação** e **Proteção de Dados**, incluindo atuação prática como DPO do município de João Pessoa.
+
+🌍 João Pessoa – PB, Brasil  
+🎙️ Host do podcast "Segurança da Informação com Daniel Azevedo"  
 🌐 [daniel-azevedo.com](https://daniel-azevedo.com)
 
 ---
 
-### 💻 Tecnologias principais
+### 🛠️ Tecnologias e Ferramentas
 
-- **Java** (8, 11, 17) • Spring Boot • Spring Security • Jakarta EE  
-- **PostgreSQL** • **MySQL** • Hibernate/JPA  
-- **Docker** • **RabbitMQ** • **Maven**  
-- **AWS Certified** • Serverless Framework  
-- **Python** • Django • Pandas • TensorFlow  
-- **Angular** • HTML • CSS • TypeScript  
-- Testes Automatizados • APIs REST • Git
+**Linguagens**  
+Java • Python • JavaScript • HTML • CSS • SQL
+
+**Back-end**  
+Spring Boot • Jakarta EE • Hibernate/JPA • Django • NestJS
+
+**Cloud & DevOps**  
+AWS (S3, Lambda, SQS, DynamoDB, RDS) • Docker • Serverless Framework
+
+**Bancos de Dados**  
+PostgreSQL • MySQL • MongoDB
+
+**Outros**  
+Git • GitHub • GitLab • Postman • Insomnia • Swagger • Selenium • JUnit • Maven
 
 ---
 
-### 🌐 Conecte-se comigo
+### 🎓 Certificações
+
+- **AWS Certified Cloud Practitioner**  
+- **EXIN BCS Artificial Intelligence Essentials (AIE)**  
+- **EXIN Data Protection Officer (DPO)**  
+- **Privacy and Data Protection Practitioner**  
+- **Information Security Foundation (ISO/IEC 27001)**  
+- **EXIN Privacy and Data Protection Foundation (PDPF)**  
+- **Privacy and Data Protection Essentials**
+
+---
+
+### 📚 Cursos Relevantes
+
+- Testes Unitários com JUnit – AlgaWorks  
+- Curso Docker do Zero ao Avançado – Udemy  
+- Machine Learning Specialization – DeepLearning.AI  
+- AI For Everyone – DeepLearning.AI  
+- Persistência com Spring Data + JPA – JDev  
+- APIs REST com JavaScript e Bootstrap – JDev  
+- HTTP e Arquitetura de Computadores – Alura  
+
+---
+
+### 🧠 Idiomas
+
+Português (nativo) • Inglês (avançado) • Espanhol (intermediário)
+
+---
+
+### 🌐 Contatos
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-azevedo-maia/)  
 [![Website](https://img.shields.io/badge/-daniel--azevedo.com-000?style=for-the-badge&logo=web&logoColor=white)](https://daniel-azevedo.com)  
@@ -35,4 +74,4 @@ Sou um desenvolvedor Java com foco em back-end, apaixonado por criar soluções 
 
 ---
 
-<p align="center">Feito com 💻 por Daniel Azevedo</p>
+<p align="center">Feito com dedicação, propósito e paixão por tecnologia.</p>
