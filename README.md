@@ -23,7 +23,7 @@
 I’m a technology professional passionate about building **scalable**, **secure**, and **modern software solutions**. I thrive on **clean code**, **design patterns**, and **best development practices** — always learning, teaching, and sharing knowledge with the tech community. I’m especially interested in cloud technologies, automation, and the real-world impact of artificial intelligence.
 
 - 📍 **Location:** João Pessoa – PB, Brazil  
-- 🎙️ **Podcast:** [Segurança da Informação com Daniel Azevedo](https://open.spotify.com/show/6SicXkFtm5L6dJSC5KeHW5)  
+- 🎙️ **Podcast:** [Segurança da Informação com Daniel Azevedo](https://open.spotify.com/show/3oOIbYYFhSVZ4CAMucZrMm)  
 - 🌐 **Website:** <https://daniel-azevedo.com>
 
 Currently levelling up my cloud‑architecture skills on AWS (📜 **AWS Cloud Practitioner**, on the road to **SAA‑C03**) and acting as a **Data Protection Officer** for the city of João Pessoa and private companies.
