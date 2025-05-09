@@ -1,11 +1,5 @@
-<!-- Banner -->
-<p align="center">
-  <!-- Optional: replace with your own banner image or remove -->
-  <img src="https://raw.githubusercontent.com/daniel-azevedo-maia/branding/main/cover.svg" alt="Daniel Azevedo – Banner" width="100%"/>
-</p>
-
 <h1 align="center">Hi, I'm <strong>Daniel Azevedo</strong> 👋</h1>
-<p align="center"><em>Back‑End Developer • Cloud Enthusiast • Privacy & Data Protection</em></p>
+<p align="center"><em>Software Developer • Cloud • Privacy & Data Protection</em></p>
 
 <p align="center">
   <a href="https://github.com/daniel-azevedo-maia?tab=followers">
