@@ -77,7 +77,7 @@ Currently levelling up my cloud‑architecture skills on AWS (📜 **AWS Cloud�
 
 - **LinkedIn:** <https://www.linkedin.com/in/daniel-azevedo-maia/>  
 - **Website:** <https://daniel-azevedo.com>  
-- **Email:** contact@daniel-azevedo.com  
+- **Email:** daniel.azevedo.maia@hotmail.com  
 - **Instagram:** <https://www.instagram.com/daniel.azevedo.maia>
 
 ---
