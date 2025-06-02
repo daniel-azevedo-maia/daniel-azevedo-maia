@@ -20,7 +20,7 @@ Desenvolvedor full stack especializado em **Java, Spring Boot e APIs REST**, com
 - Boas práticas de segurança e privacidade de dados 🔒  
 - Implantação de soluções escaláveis em cloud (AWS) ☁️  
 
-Como diferencial, atuo também como **Encarregado de Dados (DPO)** com expertise em LGPD, Segurança da Informação, ISO 27001 e governança de dados. Comprometido com desenvolvimento de software robusto ponta a ponta.
+Como diferencial, atuo também como **Encarregado de Dados (DPO)** certificado, com expertise em LGPD, Segurança da Informação, ISO 27001 e governança de dados. Comprometido com desenvolvimento de software robusto ponta a ponta.
 
 ---
 
