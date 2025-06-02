@@ -1,88 +1,103 @@
-<h1 align="center">Hi, I'm <strong>Daniel Azevedo</strong> 👋</h1>
-<p align="center"><em>Software Developer • Cloud • Privacy & Data Protection</em></p>
-
 <p align="center">
-  <a href="https://github.com/daniel-azevedo-maia?tab=followers">
-    <img src="https://img.shields.io/github/followers/daniel-azevedo-maia?label=Followers&logo=github&style=for-the-badge" alt="GitHub followers badge" />
-  </a>
-  <a href="https://www.linkedin.com/in/daniel-azevedo-maia/">
-    <img src="https://img.shields.io/badge/LinkedIn-Daniel%20Azevedo-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn badge" />
-  </a>
-  <a href="https://daniel-azevedo.com">
-    <img src="https://img.shields.io/badge/Website-daniel--azevedo.com-000?logo=googlechrome&logoColor=white&style=for-the-badge" alt="Website badge" />
-  </a>
-  <a href="mailto:daniel.azevedo.maia@hotmail.com">
-    <img src="https://img.shields.io/badge/Email-daniel.azevedo.maia@hotmail.com-D14836?logo=gmail&logoColor=white&style=for-the-badge" alt="Email badge" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&duration=3000&pause=1000&color=4A8DDC&center=true&vCenter=true&width=600&lines=Daniel+Azevedo;Full+Stack+Developer;Data+Protection+Officer;Cloud+%26+AI+Enthusiast" alt="Animated Header">
 </p>
 
----
+<div align="center">
+  
+📍 João Pessoa – PB, Brasil  
+🌐 [daniel-azevedo.com](https://daniel-azevedo.com)  
+🎙️ [Podcast: Segurança da Informação](https://open.spotify.com/show/3oOIbYYFhSVZ4CAMucZrMm)  
+📚 **Atualmente focado:** AWS SAA-C03 & Machine Learning  
 
-## About Me
-
-I’m a technology professional passionate about building **scalable**, **secure**, and **modern software solutions**. I thrive on **clean code**, **design patterns**, and **best development practices** — always learning, teaching, and sharing knowledge with the tech community. I’m especially interested in cloud technologies, automation, and the real-world impact of artificial intelligence.
-
-- 📍 **Location:** João Pessoa – PB, Brazil  
-- 🎙️ **Podcast:** [Segurança da Informação com Daniel Azevedo](https://open.spotify.com/show/3oOIbYYFhSVZ4CAMucZrMm)  
-- 🌐 **Website:** <https://daniel-azevedo.com>
-
-Currently levelling up my cloud‑architecture skills on AWS (📜 **AWS Cloud Practitioner**, on the road to **SAA‑C03**) and acting as a **Data Protection Officer** for the city of João Pessoa and private companies.
+</div>
 
 ---
 
-## 🛠️ Tech & Tools
+### 👨‍💻 Perfil Profissional  
+Desenvolvedor full stack especializado em **Java, Spring Boot e APIs REST**, com sólida experiência em **Python, Machine Learning, AWS, Docker e arquitetura de microsserviços**. Foco em:  
+- Arquitetura limpa e código sustentável 🧹  
+- Testes automatizados (JUnit, Mockito) 🧪  
+- Boas práticas de segurança e privacidade de dados 🔒  
+- Implantação de soluções escaláveis em cloud (AWS) ☁️  
 
-| 💻 Languages | 🚀 Back‑End | ☁️ Cloud & DevOps | 🗄️ Databases | 🔧 Utilities |
-| --- | --- | --- | --- | --- |
-| ![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white) | ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=white) ![Jakarta EE](https://img.shields.io/badge/Jakarta%20EE-E76F00?logo=jakartaee&logoColor=white) ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?logo=hibernate&logoColor=white) ![Django](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white) | ![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white) ![Serverless](https://img.shields.io/badge/Serverless-FD5750?logo=serverless&logoColor=white) | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white) | ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/GitLab-FC6D26?logo=gitlab&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white) ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?logo=swagger&logoColor=black) ![Selenium](https://img.shields.io/badge/Selenium-43B02A?logo=selenium&logoColor=white) ![JUnit](https://img.shields.io/badge/JUnit-25A162?logo=junit5&logoColor=white) ![Maven](https://img.shields.io/badge/Maven-C71A36?logo=apachemaven&logoColor=white) |
-
----
-
-## 🏆 Certifications
-
-| Certification | Issuer |
-| --- | --- |
-| **AWS Certified Cloud Practitioner** | Amazon Web Services |
-| **EXIN BCS Artificial Intelligence Essentials (AIE)** | EXIN |
-| **EXIN Data Protection Officer (DPO)** | EXIN |
-| **Privacy & Data Protection Practitioner** | EXIN |
-| **Information Security Foundation (ISO/IEC 27001)** | EXIN |
-| **EXIN Privacy & Data Protection Foundation (PDPF)** | EXIN |
-| **Privacy & Data Protection Essentials** | EXIN |
+Como diferencial, atuo também como **Encarregado de Dados (DPO)** com expertise em LGPD, Segurança da Informação, ISO 27001 e governança de dados. Comprometido com desenvolvimento de software robusto ponta a ponta.
 
 ---
 
-## 📚 Education & Key Courses
+### 🛠️ Stack Técnica  
 
-- **CS50x – Introduction to Computer Science** – Harvard / edX (Verified Certificate)  
-- **Java Specialist** – AlgaWorks  
-- **Unit Testing with JUnit** – AlgaWorks  
-- **Docker from Zero to Advanced** – Udemy  
-- **Machine Learning Specialization** – DeepLearning.AI  
-- **AI for Everyone** – DeepLearning.AI  
+#### **Linguagens**  
+![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?logo=typescript&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
+
+#### **Backend & APIs**  
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?logo=springboot&logoColor=white)
+![Jakarta EE](https://img.shields.io/badge/Jakarta_EE-1F7A8C?logo=eclipse&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white)
+![REST API](https://img.shields.io/badge/REST-02569B?logo=rest&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?logo=hibernate&logoColor=white)
+
+#### **Cloud & DevOps**  
+![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+![Serverless](https://img.shields.io/badge/Serverless-FD5750?logo=serverless&logoColor=white)
+
+#### **Bancos de Dados**  
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
+
+#### **Ferramentas**  
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?logo=swagger&logoColor=black)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-C71A36?logo=apachemaven&logoColor=white)
 
 ---
 
-## 🌍 Languages
+### 🏆 Certificações  
 
-| Language | Proficiency |
-| --- | --- |
-| Portuguese | Native |
-| English | Advanced |
-| Spanish | Intermediate |
+| Área             | Certificações                                                                 |
+|------------------|-------------------------------------------------------------------------------|
+| **Cloud**        | AWS Certified Cloud Practitioner (SAA-C03 em progresso) ☁️                   |
+| **Proteção de Dados** | EXIN DPO • EXIN PDPF • ISO/IEC 27001 🛡️                                 |
+| **IA & ML**      | EXIN AIE • AI For Everyone (DeepLearning.AI) • Machine Learning Specialization 🤖 |
 
 ---
 
-## 📫 Get in Touch
+### 📚 Formação Acadêmica  
 
-- **LinkedIn:** <https://www.linkedin.com/in/daniel-azevedo-maia/>  
-- **Website:** <https://daniel-azevedo.com>  
-- **Email:** daniel.azevedo.maia@hotmail.com  
-- **Instagram:** <https://www.instagram.com/daniel.azevedo.maia>
+- **CS50 – Ciência da Computação** (Harvard/edX)  
+- **Java Especialista** (AlgaWorks)  
+- **Docker do Zero ao Avançado** (Udemy)  
+- **Machine Learning & IA** (DeepLearning.AI)  
+
+---
+
+### 🌐 Idiomas  
+
+| Idioma       | Nível          |
+|--------------|----------------|
+| Português    | Nativo 🇧🇷     |
+| Inglês       | Avançado 🇺🇸   |
+| Espanhol     | Intermediário 🇪🇸 |
+
+---
+
+### 📬 Contato Profissional  
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-azevedo-maia)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:daniel.azevedo.maia@hotmail.com)
+[![Website](https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://daniel-azevedo.com)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/daniel.azevedo.maia)
 
 ---
 
 <p align="center">
-  Crafted with <strong>dedication</strong>, <strong>purpose</strong>, and <strong>passion</strong> for technology.<br/>
-  <img src="https://komarev.com/ghpvc/?username=daniel-azevedo-maia&style=flat-square&label=Profile+Views" alt="Profile views" />
+  <i>"Construindo soluções tecnológicas com excelência técnica e responsabilidade ética"</i><br/><br/>
+  <img src="https://komarev.com/ghpvc/?username=daniel-azevedo-maia&style=flat-square&label=Visualizações+do+perfil&color=4A8DDC" alt="Profile views" />
 </p>
