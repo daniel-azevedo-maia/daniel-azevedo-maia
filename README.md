@@ -1,13 +1,13 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&duration=3000&pause=1000&color=4A8DDC&center=true&vCenter=true&width=600&lines=Daniel+Azevedo;Full+Stack+Developer;Data+Protection+Officer;Cloud+%26+AI+Enthusiast" alt="Animated Header">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&duration=3000&pause=1000&color=4A8DDC&center=true&vCenter=true&width=600&lines=Daniel+Azevedo;Full+Stack+Developer;Back-end+Java+Developer;Cloud+Engineer;Machine+Learning+Developer" alt="Animated Header">
 </p>
+
 
 <div align="center">
   
 📍 João Pessoa – PB, Brasil  
 🌐 [daniel-azevedo.com](https://daniel-azevedo.com)  
 🎙️ [Podcast: Segurança da Informação](https://open.spotify.com/show/3oOIbYYFhSVZ4CAMucZrMm)  
-📚 **Atualmente focado:** AWS SAA-C03 & Machine Learning  
 
 </div>
 
